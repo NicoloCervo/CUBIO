@@ -1,4 +1,4 @@
-# Tris3D
+# Cubio
 
 Game consisting in a revisitation of classic Tris that features different boards to play on and new rules
 
