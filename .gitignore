@@ -1,0 +1,6 @@
+untracked_assets/
+__pycache__/
+*.ai
+*.txt
+*.exe
+*.psd
